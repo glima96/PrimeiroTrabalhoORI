@@ -1,5 +1,0 @@
-portas		porta
-vizinhos	vizinho
-caminhos	caminho
-alagados	alagado
-sedas		seda

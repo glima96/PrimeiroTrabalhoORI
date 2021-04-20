@@ -1,8 +1,0 @@
-brancas		branca
-azuis		azul
-amarelas	amarela
-pretas		preta
-belas		bela
-borboletas	borboleta
-alegres		alegre
-francas		franca

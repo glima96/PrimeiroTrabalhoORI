@@ -1,8 +1,0 @@
-Palavras sem StopWords
-materia | mundo | quartel | vivo | abro | ceu | capitao | prazenteira | frente | menininho | devagarinho | madeira | fecho | morta | supetao | porta | cozinheira | cuidado | viva | namorado | casa | passar | aberta | 
-Palavras sem Plural
-aberta | abro | capitao | casa | ceu | cozinheira | cuidado | devagarinho | fecho | frente | madeira | materia | menininho | morta | mundo | namorado | passar | porta | prazenteira | quartel | supetao | viva | vivo | 
-Palavras Lematizadas
-aberta | abrir | capitao | casa | ceu | cozinheira | cuidado | devagarinho | fechar | frente | madeira | materia | menininho | morta | mundo | namorar | passar | porta | prazenteira | quartel | supetao | viva | vivo | 
-Palavras sem Diminutivo e Aumentativo Estagio Final
-aberta | abrir | capitao | casa | ceu | cozinheira | cuidado | devagar | fechar | frente | madeira | materia | menino | morta | mundo | namorar | passar | porta | prazenteira | quartel | supetao | viva | vivo | 

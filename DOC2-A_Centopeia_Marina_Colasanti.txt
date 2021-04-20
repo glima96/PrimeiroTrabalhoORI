@@ -1,8 +1,0 @@
-Palavras sem StopWords
-responda | pes | primeiro | contar | manca | bichinha | cabecas | esqueca | ideia | arranca | centopeia | sera | bicho | cem | existe | pata | 
-Palavras sem Plural
-arranca | bichinha | bicho | cabeca | cem | centopeia | contar | esqueca | existe | ideia | manca | pata | pe | primeiro | responda | sera | 
-Palavras Lematizadas
-arranca | bichinha | bicho | cabeca | cem | centopeia | contar | esquecer | existir | ideia | manca | pata | pe | primeiro | responder | sera | 
-Palavras sem Diminutivo e Aumentativo Estagio Final
-arranca | bicho | bicho | cabeca | cem | centopeia | contar | esquecer | existir | ideia | manca | pata | pe | primeiro | responder | sera | 

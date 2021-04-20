@@ -1,8 +1,0 @@
-Palavras sem StopWords
-par | caminhos | tamanquinhos | vizinhos | ligeirinhos | sedas | batendo | sonham | cantando | chove | alagados | portas | silencio | arminhos | madrugada | 
-Palavras sem Plural
-alagado | arminho | batendo | caminho | cantando | chove | ligeirinho | madrugada | par | porta | seda | silencio | sonham | tamanquinho | vizinho | 
-Palavras Lematizadas
-alagado | arminho | bater | caminho | cantar | chove | ligeirinho | madrugada | par | porta | seda | silencio | sonhar | tamanquinho | vizinho | 
-Palavras sem Diminutivo e Aumentativo Estagio Final
-alagado | armino | bater | caminho | cantar | chove | ligeiro | madrugada | par | porta | seda | silencio | sonhar | tamanco | vizinho | 

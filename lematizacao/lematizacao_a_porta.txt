@@ -1,3 +1,0 @@
-abro		abrir
-fecho		fechar
-

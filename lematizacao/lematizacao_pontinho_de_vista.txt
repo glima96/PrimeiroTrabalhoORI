@@ -1,4 +1,0 @@
-dizem		dizer
-levantado	levantar
-falasse		falar
-visse		ver
