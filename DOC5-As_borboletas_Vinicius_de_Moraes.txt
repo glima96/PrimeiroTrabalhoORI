@@ -1,0 +1,8 @@
+Palavras sem StopWords
+borboletas | gostam | belas | francas | escuridao | amarelinhas | amarelas | brincam | brancas | bonitinhas | alegres | luz | azuis | pretas | 
+Palavras sem Plural
+alegre | amarela | amarelinha | azul | bela | bonitinha | borboleta | branca | brincam | escuridao | franca | gostam | luz | preta | 
+Palavras Lematizadas
+alegre | amarela | amarelinha | azul | bela | bonitinha | borboleta | branca | brincar | escuridao | franca | gostar | luz | preta | 
+Palavras sem Diminutivo e Aumentativo Estagio Final
+alegre | amarela | amarela | azul | bela | bonita | borboleta | branca | brincar | escuro | franca | gostar | luz | preta | 

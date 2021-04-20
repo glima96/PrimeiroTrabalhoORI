@@ -1,0 +1,8 @@
+Palavras sem StopWords
+chao | mundo | falasse | olhar | dizer | levantado | pequeno | formiga | grandao | queixo | fico | visse | dizem | zangado | 
+Palavras sem Plural
+chao | dizem | dizer | falasse | fico | formiga | grandao | levantado | mundo | olhar | pequeno | queixo | visse | zangado | 
+Palavras Lematizadas
+chao | dizer | dizer | falar | fico | formiga | grandao | levantar | mundo | olhar | pequeno | queixo | ver | zangado | 
+Palavras sem Diminutivo e Aumentativo Estagio Final
+chao | dizer | dizer | falar | fico | formiga | grande | levantar | mundo | olhar | pequeno | queixo | ver | zangado | 

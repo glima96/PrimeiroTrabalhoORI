@@ -1,0 +1,4 @@
+arranca		arrancar
+responda	responder
+esqueca		esquecer
+existe		existir

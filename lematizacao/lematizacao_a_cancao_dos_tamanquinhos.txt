@@ -1,0 +1,4 @@
+cantando	cantar
+batendo		bater	
+sonham		sonhar
+

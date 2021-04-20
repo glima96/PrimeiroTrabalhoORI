@@ -1,0 +1,8 @@
+Palavras sem StopWords
+redonda | escadas | vida | mundo | prisioneiro | dura | ramo | batalha | fruta | sapato | pedras | voar | encerrado | ensinando | viver | ruas | crianca | entao | conhecer | caminhos | outro | maneira | caiu | maca | conhecendo | derrotado | pe | vidros | explorando | luz | borboleta | condenado | cego | terra | 
+Palavras sem Plural
+batalha | borboleta | caiu | caminho | cego | condenado | conhecendo | conhecer | crianca | derrotado | dura | encerrado | ensinando | entao | escada | explorando | fruta | luz | maca | maneira | mundo | outro | pe | pedra | prisioneiro | ramo | redonda | rua | sapato | terra | vida | vidro | viver | voar | 
+Palavras Lematizadas
+batalha | borboleta | cair | caminho | cego | condenado | conhecer | conhecer | crianca | derrotar | dura | encerrar | ensinar | entao | escada | explorar | fruta | luz | maca | maneira | mundo | outro | pe | pedra | prisioneiro | ramo | redonda | rua | sapato | terra | vida | vidro | viver | voar | 
+Palavras sem Diminutivo e Aumentativo Estagio Final
+batalha | borboleta | cair | caminho | cego | condenado | conhecer | conhecer | crianca | derrotar | dura | encerrar | ensinar | entao | escada | explorar | fruta | luz | maca | maneira | mundo | outro | pe | pedra | prisioneiro | ramo | redonda | rua | sapato | terra | vida | vidro | viver | voar | 

@@ -1,0 +1,2 @@
+cabecas		cabeca
+pes		pe

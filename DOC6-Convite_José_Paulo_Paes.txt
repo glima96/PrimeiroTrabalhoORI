@@ -1,0 +1,8 @@
+Palavras sem StopWords
+poesia | agua | dia | bola | nova | brinca | novas | gastam | brincar | piao | rio | papagaio | palavras | novo | ficam | 
+Palavras sem Plural
+agua | bola | brinca | brincar | dia | ficam | gastam | nova | nova | novo | palavra | papagaio | piao | poesia | rio | 
+Palavras Lematizadas
+agua | bola | brinca | brincar | dia | ficar | gastar | nova | nova | novo | palavra | papagaio | piao | poesia | rio | 
+Palavras sem Diminutivo e Aumentativo Estagio Final
+agua | bola | brinca | brincar | dia | ficar | gastar | nova | nova | novo | palavra | papagaio | piao | poesia | rio | 
